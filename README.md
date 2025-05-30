@@ -13,7 +13,3 @@ In the directory of project, please install the module:
 ```
 pip install -e .
 ```
-##  Plotting 
-We save our results in csv file then illustrate them in the [plot](https://github.com/tnd-lab/NgocLongPham_E2E_journal_conf/tree/main/plot) folder
-
-

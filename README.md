@@ -8,6 +8,7 @@ Neural network (NN)-based end-to-end (E2E) communication systems, where each sys
 _Keywords: AI/ML, End-to-End Learning, Log-likelihood Ratio, CNN, AE, Bit-error-rate (BER)_
 
 ## Paper
+- [Preprint on arXiv](https://arxiv.org/abs/2506.00368)
 - [PDF on GitHub](./manuscript_v1.pdf)
 
 ## Result
